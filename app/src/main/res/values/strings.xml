@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tablayout_Fragment_Viewpager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite_fragment">Favorite fragment</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="my_page_fragment">My Page Fragment</string>
+</resources>
